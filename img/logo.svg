@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="70px" height="70px" viewBox="0 0 70 70" enable-background="new 0 0 70 70" xml:space="preserve">
-<text transform="matrix(1 0 0 1 0.667 69.1699)" font-family="'EB Garamond'" font-size="92.3235">A</text>
+<path fill="none" stroke="#3d3d3d" stroke-width="2.3601" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M54.121,28.078v-0.085c0-5.448-4.428-8.172-11.15-8.172H28.796L15.879,50.124h12.917h14.175c6.723,0,11.15-2.724,11.15-8.172v-0.084
+	c0-3.628-1.812-5.574-4.705-6.896C52.31,33.651,54.121,31.705,54.121,28.078z"/>
 </svg>
