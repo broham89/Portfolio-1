@@ -43,34 +43,6 @@ var wScroll = $(this).scrollTop();
 	}
 });
 
-// Open Projects on click --------------------------------------
-// $('#projects').on('click', '.card', function(){
-// 		var $this = $(this);
-// 		var flag = false;
-// 		$this.addClass('card-active')
-// 		.one("webkitTransitionEnd transitionEnd", function() { 	// wait till the width transition ends then add expand content height
-// 	 		var totalHeight = $('.content', this).outerHeight();
-// 			$this.find('article').css('height', totalHeight + 'px');
-// 		}),
-// 		$('#projects').off('click','.card'), // unbind so no multiple clicks
-// 		$('.card').not(this).addClass('fade'),
-// 		$(this).find('.close-btn').addClass('unfade');
-
-// 	// Close current open Project .card with .close-btn --------
-// 	$(this).on('click','.close-btn',function(e){
-// 		e.stopPropagation();
-// 		$(this).removeClass('unfade'),
-// 		$(this).siblings('article').css('height', '')
-// 			.one("webkitTransitionEnd transitionEnd", function() { 	// wait till the height transition ends then remove content height
-// 				$('.card').not(this).removeClass('fade'), // Bring back the sibling li's
-// 				$(this).parents('.card').removeClass('card-active');
-// 			});
-		
-// 	});
-
-
-// });
-
 function card_clicked() {
 	var $this = $(this);
 
